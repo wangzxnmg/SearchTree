@@ -1,2 +1,2 @@
-# SearchTree
+# SearchTrie
 search function for contacts
